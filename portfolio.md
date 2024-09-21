@@ -17,20 +17,27 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 
 ## 🚀 Projects
 
-### [Lean-Six-Sigma](https://github.com/Nikhil199727/Lean-Six-Sigma)
-> **Description**: The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal [records](https://github.com/Nikhil199727/Lean-Six-Sigma/blob/main/Lean_Six_Sigma_.ipynb).
+1. ### [Lean-Six-Sigma](https://github.com/Nikhil199727/Lean-Six-Sigma)
+> **Description**: The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal records.
+![Lean Six Sigma Badge](https://img.shields.io/badge/Lean--Six--Sigma-blue?style=flat-square)
 
+2. ### [Churn Prediction](https://github.com/Nikhil199727/Churn-Modelling)
+> **Description**: Aimed to identify factors leading to customer churn, develop a predictive model, and implement machine learning to enhance retention.
 
-### [Churn Prediction](https://github.com/Nikhil199727/Churn-Modelling)
-> **Description**: Aimed to identify factors leading to customer churn, develop a predictive model, and implement machine learning to enhance [retention](https://github.com/Nikhil199727/Churn-Modelling/blob/main/Churn_Modelling.ipynb).
+3. ### [Supply Chain Analytics](https://github.com/Nikhil199727/Supply-chain-Analytics)
+> **Description**: This project explores inventory management, fulfillment efficiency, and demand forecasting by analyzing historical sales and inventory data to enhance decision-making.
 
-### [Project Name 3](#)
-> **Description**: [Brief Description of Project].  
-> **Tech Stack**: [List of Technologies/Frameworks used].  
-> **Live Demo**: [Demo Link] | **Source Code**: [GitHub Repo Link]
+4. ### [Sales Forecasting](https://github.com/Nikhil199727/Sales-Forecasting)
+> **Description**: The project involved reshaping the dataset, visualizing sales patterns, and using linear regression to predict sales for the next six months.
 
-> _**More projects:** [Visit My Project Gallery](#)_
+5. ### [RFM Model](https://github.com/Nikhil199727/RFM-model)
+> **Description**: This project employs RFM analysis to evaluate customer value based on Recency, Frequency, and Monetary value, aiming to segment customers and derive actionable insights for targeted marketing strategies.
 
+6. ### [Spotify Data Analysis](https://github.com/Nikhil199727/Spotify-Data-Analysis)
+> **Description**: This project analyzes musical features from a Spotify dataset to uncover trends in attributes like acousticness, danceability, and energy across decades, exploring the evolution of music and insights on explicit versus non-explicit songs.
+
+7. ### [Netflix Userbase Analysis](https://github.com/Nikhil199727/Netflix-Data-Analysis)
+> **Description**: This project analyzes Netflix's user demographics, subscriptions, and revenue by country to uncover trends in user behavior and preferences, guiding future business strategies through visual data representations.
 ---
 
 ## 🛠️ Skills
@@ -38,7 +45,6 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ### Tools & Technologies
 ![SAP ERP](https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft%20Dynamics%20365-00188F?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -48,6 +54,8 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### Soft Skills
+- **Analytical Thinking** | **Problem-Solving** | **Project Management** | **Communication & Collaboration**
 
 > _**More Skills:** [Detailed Skills List](#)_
 ## 📚 Detailed Skills List
