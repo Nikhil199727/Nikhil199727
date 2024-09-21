@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 3. ### [Supply Chain Analytics](https://github.com/Nikhil199727/Supply-chain-Analytics)
 > **Description**: This project explores inventory management, fulfillment efficiency, and demand forecasting by analyzing historical sales and inventory data to enhance decision-making.
 
-*Inventory Management* | *Demand Forecasting* | *Logistics Optimization* | *Process Improvement* | *Statistical Analysis* | *Supply Chain Modeling* | *ERP Systems* | *Visualization* | *Risk Management*
+*Inventory Management* | *Demand Forecasting* | *Logistics Optimization* | *Process Improvement* | *Supply Chain Modeling* | *ERP Systems* | *Visualization* | *Risk Management*
 
 
 4. ### [Sales Forecasting](https://github.com/Nikhil199727/Sales-Forecasting)
@@ -44,19 +44,19 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 5. ### [RFM Model](https://github.com/Nikhil199727/RFM-model)
 > **Description**: This project employs RFM analysis to evaluate customer value based on Recency, Frequency, and Monetary value, aiming to segment customers and derive actionable insights for targeted marketing strategies.
 
-*RFM Analysis* | *Customer Segmentation* | *Data Analysis* | *Market Insights* | *Targeted Marketing* | *Behavioral Analysis*
+*RFM Analysis* | *Customer Segmentation*  | *Market Insights* | *Targeted Marketing* | *Behavioral Analysis*
 
 
 6. ### [Spotify Data Analysis](https://github.com/Nikhil199727/Spotify-Data-Analysis)
 > **Description**: This project analyzes musical features from a Spotify dataset to uncover trends in attributes like acousticness, danceability, and energy across decades, exploring the evolution of music and insights on explicit versus non-explicit songs.
 
-*Data Analysis* | *Trend Analysis* | *Feature Extraction* | *Music Attributes* | *Visualization* | *Statistical Techniques*
+*Trend Analysis* | *Feature Extraction* | *Music Attributes* | *Visualization* | *Statistical Techniques*
 
 
 7. ### [Netflix Userbase Analysis](https://github.com/Nikhil199727/Netflix-Data-Analysis)
 > **Description**: This project analyzes Netflix's user demographics, subscriptions, and revenue by country to uncover trends in user behavior and preferences, guiding future business strategies through visual data representations.
 
-*Data Analysis* | *User Demographics* | *Subscription Modeling* | *Revenue Analysis* | *Visualization* | *Behavioral Insights* | *Market Trends*
+*User Demographics* | *Subscription Modeling* | *Revenue Analysis* | *Behavioral Insights* | *Market Trends*
 
 ---
 
