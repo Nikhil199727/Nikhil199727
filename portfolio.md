@@ -1,19 +1,14 @@
 # 👋 Hey, I'm Nikhil!
 
-Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about [Your Interests or Field]. I love building innovative projects and contributing to open-source. Below, you can find some of my work and skills.
+Welcome to my GitHub profile! 
 
----
+As a Supply Chain Analyst with specialization in supply chain management, I have successfully developed KPI dashboards that deliver significant business impact, collaborated with cross-functional teams, and optimized CRM processes to enhance operational efficiency.
 
-## 🧑‍💻 About Me
+Holding a Master’s degree in Supply Chain Management, I have a proven track record of academic excellence and practical achievements. My expertise spans data analysis and automation, inventory management, fleet logistics, and purchasing, all with a focus on delivering quantifiable results and actionable insights. I am eager to leverage my skills to drive strategic improvements and contribute to your organization’s success.
 
-- 🔭 I’m currently working on **[Your Current Project/Research/Job Role]**
-- 🌱 I’m currently learning **[New Skills/Technologies]**
-- 👯 I’m looking to collaborate on **[Open Source Projects/Tech Stack]**
-- 💬 Ask me about **[Your Areas of Expertise/Skills]**
-- 📫 How to reach me: **[Your Contact Email or Social Media]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+Feel free to explore my repositories, and don't hesitate to connect or reach out for collaboration!
 
----
+
 
 ## 🚀 Projects
 
@@ -77,74 +72,7 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 ### Soft Skills
 - **Analytical Thinking** | **Problem-Solving** | **Project Management** | **Communication & Collaboration**
 
-> _**More Skills:** [Detailed Skills List](#)_
-## 📚 Detailed Skills List
 
-### Mechanical Engineering Skills
-- **Product Design & Development:** 
-  - Experience in designing mechanical components and systems using SolidWorks and CATIA.
-  - Developed prototypes and conducted feasibility analysis to validate design concepts.
-- **3D Modeling & Simulation:** 
-  - Created complex 3D models for mechanical parts and assemblies.
-  - Conducted simulations to predict performance under various conditions using ANSYS and SolidWorks Simulation.
-- **Finite Element Analysis (FEA):** 
-  - Performed FEA for structural analysis to ensure product safety and reliability.
-  - Analyzed stress, strain, and fatigue for different materials and components.
-- **CAD Tools:**
-  - **SolidWorks:** Proficient in creating detailed part and assembly drawings.
-  - **AutoCAD:** Skilled in 2D drafting and technical drawing for mechanical designs.
-  - **CATIA:** Expertise in surface modeling and complex geometries.
-- **Manufacturing Processes:** 
-  - Knowledgeable in CNC machining, 3D printing, and injection molding.
-  - Familiar with Lean manufacturing principles and Six Sigma for process improvement.
-
-### Automation & AS/CA Skills
-- **Automation Systems:** 
-  - Designed and implemented automation systems for manufacturing and process control.
-  - Proficient in PLC programming and HMI development using Siemens and Allen-Bradley platforms.
-- **Computer Applications (CA):** 
-  - Developed scripts and macros for automating repetitive CAD tasks.
-  - Integrated CAD models with ERP systems for streamlined production planning.
-
-
-### Software & Tools
-- **CAD & Simulation Tools:**
-  - **SolidWorks:** Advanced skills in 3D modeling and simulation.
-  - **AutoCAD:** Experienced in 2D drafting for technical drawings.
-  - **CATIA:** Proficient in surface and solid modeling.
-  - **ANSYS:** Used for performing finite element analysis (FEA) for structural integrity and thermal simulations.
-- **Automation Tools:**
-  - **Siemens PLC:** Experience with TIA Portal for PLC programming and automation solutions.
-  - **Allen-Bradley PLC:** Skilled in RSLogix 5000 for industrial automation and control systems.
-  - 
-### Data Analysis & Visualization
-- **Data Analysis:**
-  - Advanced skills in Python and MATLAB for engineering computations and data analysis.
-  - Experienced in using Excel for complex engineering calculations and data visualization.
-- **Business Intelligence (BI):**
-  - Created dashboards in Tableau and Power BI to visualize production and quality metrics.
-    
-### Certifications
-- **Certified SolidWorks Professional (CSWP)**
-- **Certified CAD Professional in AutoCAD**
-- **Six Sigma Green Belt**
-- **APICS Certified Supply Chain Professional (CSCP)**
-
-> _Feel free to ask if you want to know more about my skills!_
-
----
-
-## 📹 Demo Videos
-
-[![Project Name 1](https://img.youtube.com/vi/demo-video-id/0.jpg)](https://www.youtube.com/watch?v=demo-video-id)
-> _**Project Name 1** - Short description about the demo video._
-
-[![Project Name 2](https://img.youtube.com/vi/demo-video-id/0.jpg)](https://www.youtube.com/watch?v=demo-video-id)
-> _**Project Name 2** - Short description about the demo video._
-
-> _**More Demos:** [Visit My YouTube Channel](#)_
-
----
 
 ## 📬 Contact Me
 
@@ -156,7 +84,6 @@ Feel free to reach out to me at:
 
 ---
 
----
 
 ## 📈 GitHub Stats
 
