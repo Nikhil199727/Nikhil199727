@@ -18,18 +18,13 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 ## 🚀 Projects
 
 ### [Lean-Six-Sigma](https://github.com/Nikhil199727/Lean-Six-Sigma)
-> **Description**: The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal records. 
-> [Source Code](https://github.com/Nikhil199727/Lean-Six-Sigma/blob/main/Lean_Six_Sigma_.ipynb)
+> **Description**: The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal [records](https://github.com/Nikhil199727/Lean-Six-Sigma/blob/main/Lean_Six_Sigma_.ipynb).
 
 
-### [Project Name 2](#)
-![Project Name 2](demo-video-url-or-image-url)
-> **Description**: [Brief Description of Project].  
-> **Tech Stack**: [List of Technologies/Frameworks used].  
-> **Live Demo**: [Demo Link] | **Source Code**: [GitHub Repo Link]
+### [Churn Prediction](https://github.com/Nikhil199727/Churn-Modelling)
+> **Description**: Aimed to identify factors leading to customer churn, develop a predictive model, and implement machine learning to enhance [retention](https://github.com/Nikhil199727/Churn-Modelling/blob/main/Churn_Modelling.ipynb).
 
 ### [Project Name 3](#)
-![Project Name 3](demo-video-url-or-image-url)
 > **Description**: [Brief Description of Project].  
 > **Tech Stack**: [List of Technologies/Frameworks used].  
 > **Live Demo**: [Demo Link] | **Source Code**: [GitHub Repo Link]
