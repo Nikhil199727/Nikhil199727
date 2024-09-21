@@ -19,7 +19,11 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 
 1. ### [Lean-Six-Sigma](https://github.com/Nikhil199727/Lean-Six-Sigma)
 > **Description**: The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal records.
-![Lean Six Sigma Badge](https://img.shields.io/badge/Lean--Six--Sigma-blue?style=flat-square)
+![Process Mapping](https://img.shields.io/badge/Process%20Mapping-blue?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-green?style=flat-square)
+![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-orange?style=flat-square)
+![DMAIC Methodology](https://img.shields.io/badge/DMAIC%20Methodology-red?style=flat-square)
+![Lean Principles](https://img.shields.io/badge/Lean%20Principles-purple?style=flat-square)
 
 2. ### [Churn Prediction](https://github.com/Nikhil199727/Churn-Modelling)
 > **Description**: Aimed to identify factors leading to customer churn, develop a predictive model, and implement machine learning to enhance retention.
