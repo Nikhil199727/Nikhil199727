@@ -12,7 +12,7 @@ Feel free to explore my repositories, and don't hesitate to connect or reach out
 
 ## 🚀 Projects
 
-1. ### [Lean-Six-Sigma](https://github.com/Nikhil199727/Lean-Six-Sigma)
+1. ###  [Lean-Six-Sigma](https://github.com/Nikhil199727/Lean-Six-Sigma)
 > **Description**: The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal records.
 
 *<span style="color: grey;">Process Mapping</span>* | *<span style="color: grey;">Statistical Analysis</span>* | *<span style="color: grey;">Root Cause Analysis</span>* | *<span style="color: grey;">DMAIC Methodology</span>* | *<span style="color: grey;">Lean Principles</span>* | *<span style="color: grey;">Project Management</span>* | *<span style="color: grey;">Data Collection</span>* | *<span style="color: grey;">Control Charts</span>* | *<span style="color: grey;">Kaizen</span>* | *<span style="color: grey;">Change Management</span>*
