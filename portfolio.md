@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hey, I'm Nikhil!
 
 Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about [Your Interests or Field]. I love building innovative projects and contributing to open-source. Below, you can find some of my work and skills.
 
@@ -17,11 +17,10 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 
 ## 🚀 Projects
 
-### [Project Name 1](#)
+### [Lean-Six-Sigma](#)
 ![Project Name 1](demo-video-url-or-image-url)
-> **Description**: [Brief Description of Project].  
-> **Tech Stack**: [List of Technologies/Frameworks used].  
-> **Live Demo**: [Demo Link] | **Source Code**: [GitHub Repo Link]
+> **Description**: [The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal records.]  
+> **Source Code**: [https://github.com/Nikhil199727/Lean-Six-Sigma/blob/main/Lean_Six_Sigma_.ipynb]
 
 ### [Project Name 2](#)
 ![Project Name 2](demo-video-url-or-image-url)
