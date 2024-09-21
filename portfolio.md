@@ -17,10 +17,10 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 
 ## 🚀 Projects
 
-### [Lean-Six-Sigma](#)
-![Project Name 1](demo-video-url-or-image-url)
-> **Description**: [The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal records.]  
-> **Source Code**: [https://github.com/Nikhil199727/Lean-Six-Sigma/blob/main/Lean_Six_Sigma_.ipynb]
+### [Lean-Six-Sigma](https://github.com/Nikhil199727/Lean-Six-Sigma)
+> **Description**: The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal records. 
+> [Source Code](https://github.com/Nikhil199727/Lean-Six-Sigma/blob/main/Lean_Six_Sigma_.ipynb)
+
 
 ### [Project Name 2](#)
 ![Project Name 2](demo-video-url-or-image-url)
