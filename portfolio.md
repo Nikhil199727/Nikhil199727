@@ -26,10 +26,23 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 ![Lean Principles](https://img.shields.io/badge/Lean%20Principles-purple?style=flat-square)
 
 2. ### [Churn Prediction](https://github.com/Nikhil199727/Churn-Modelling)
-> **Description**: Aimed to identify factors leading to customer churn, develop a predictive model, and implement machine learning to enhance retention.
+> **Description**: Aimed to identify factors leading to customer churn, develop a predictive model, and implement machine learning to enhance retention. ![Customer Segmentation](https://img.shields.io/badge/Customer%20Segmentation-red?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-purple?style=flat-square)
+![Statistical Testing](https://img.shields.io/badge/Statistical%20Testing-yellow?style=flat-square)
+![Visualization](https://img.shields.io/badge/Visualization-lightgrey?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A/B%20Testing-lightblue?style=flat-square)
+![CRM](https://img.shields.io/badge/CRM-teal?style=flat-square)
+![Retention Strategies](https://img.shields.io/badge/Retention%20Strategies-ff69b4?style=flat-square)
 
 3. ### [Supply Chain Analytics](https://github.com/Nikhil199727/Supply-chain-Analytics)
 > **Description**: This project explores inventory management, fulfillment efficiency, and demand forecasting by analyzing historical sales and inventory data to enhance decision-making.
+![Inventory Management](https://img.shields.io/badge/Inventory%20Management-green?style=flat-square)
+![Demand Forecasting](https://img.shields.io/badge/Demand%20Forecasting-orange?style=flat-square)
+![Logistics Optimization](https://img.shields.io/badge/Logistics%20Optimization-red?style=flat-square)
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-purple?style=flat-square)
+![Supply Chain Modeling](https://img.shields.io/badge/Supply%20Chain%20Modeling-lightgrey?style=flat-square)
+![ERP Systems](https://img.shields.io/badge/ERP%20Systems-lightblue?style=flat-square)
+![Risk Management](https://img.shields.io/badge/Risk%20Management-ff69b4?style=flat-square)
 
 4. ### [Sales Forecasting](https://github.com/Nikhil199727/Sales-Forecasting)
 > **Description**: The project involved reshaping the dataset, visualizing sales patterns, and using linear regression to predict sales for the next six months.
