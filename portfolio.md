@@ -87,8 +87,12 @@ Feel free to reach out to me at:
 
 ## 📈 GitHub Stats
 
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil199727&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil199727&layout=compact&theme=radical)
+
+> **Note:** These stats update automatically based on my contributions. Check back often to see my latest work!
+
 
 ---
 
