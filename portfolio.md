@@ -19,16 +19,19 @@ Welcome to my GitHub portfolio! I am a [Your Profession/Role], passionate about 
 
 1. ### [Lean-Six-Sigma](https://github.com/Nikhil199727/Lean-Six-Sigma)
 > **Description**: The management team sought to determine whether training improves workers' productivity or is an unnecessary cost, gathering data on task completion times and training status to analyze the impact of training through statistical tests on a dataset of 56 entries from internal records.
+
 > Process Mapping | Root Cause Analysis | DMAIC Methodology | Lean Principles | Project Management | Data Collection | Control Charts | Change Management
 
 
 2. ### [Churn Prediction](https://github.com/Nikhil199727/Churn-Modelling)
 > **Description**: Aimed to identify factors leading to customer churn, develop a predictive model, and implement machine learning to enhance retention.
+
 > Customer Segmentation | Feature Engineering | Statistical Testing | Visualization | A/B Testing | CRM | Retention Strategies
 
 
 3. ### [Supply Chain Analytics](https://github.com/Nikhil199727/Supply-chain-Analytics)
 > **Description**: This project explores inventory management, fulfillment efficiency, and demand forecasting by analyzing historical sales and inventory data to enhance decision-making.
+
 >Data Analysis | Inventory Management | Demand Forecasting | Logistics Optimization | Process Improvement | Statistical Analysis | Supply Chain Modeling | ERP Systems | Visualization | Risk Management
 
 
